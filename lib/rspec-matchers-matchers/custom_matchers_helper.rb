@@ -18,7 +18,7 @@ module RSpec
               when :description
                 message = matcher.description
               else
-                message = nil
+                raise RuntimeError, "Unsupported key #{key}"
             end
             actual_messages[key] = message
           end
