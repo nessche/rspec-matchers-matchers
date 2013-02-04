@@ -41,7 +41,7 @@ the messages need to be cached for the produce_as_xxx to test them properly. Ass
 
 One of your examples could look like this:
 
-```
+```ruby
  describe 'be_prime' do
 
     [...]
