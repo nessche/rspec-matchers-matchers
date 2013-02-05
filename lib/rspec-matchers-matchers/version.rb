@@ -1,7 +1,7 @@
 module Rspec
   module Matchers
     module Matchers
-      VERSION = '2.12.0'
+      VERSION = '1.0.0'
     end
   end
 end
