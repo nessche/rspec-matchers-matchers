@@ -1,6 +1,6 @@
 # Rspec::Matchers::Matchers
 
-[![Build Status](https://travis-ci.org/nessche/rspec-matchers-matchers.png)](https://travis-ci.org/nessche/rspec-matchers-matchers)
+[![Gem Version](https://badge.fury.io/rb/rspec-matchers-matchers.png)](http://badge.fury.io/rb/rspec-matchers-matchers)[![Build Status](https://travis-ci.org/nessche/rspec-matchers-matchers.png)](https://travis-ci.org/nessche/rspec-matchers-matchers)
 
 An RSpec add on that lets you test your own custom matchers to make sure they generate the correct
 failure messages and description message.
